@@ -10,7 +10,7 @@ Technology Risk Intern @ EY
 - Risk & Controls
 
 ## Technical Background
-- Python (academic projects)
+- Python
 - R
 - SQL
 - Excel
